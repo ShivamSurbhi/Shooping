@@ -2,7 +2,7 @@
   "/add-product/*": {
     "target": "http://localhost:5117",
     "secure": false,
-    "logLevel": "debug1",
+    "logLevel": "debug",
     "changeOrigin": true
   }
 }
